@@ -25,6 +25,6 @@ Custom theme maker for Enmity, Aliucord. (works on pc)
 ・Custom background
 # Support
 ・Sorakana#8466
-・[My Server](https://discord.gg/DQB6fcD6qq)]
+・[My Server](https://discord.gg/DQB6fcD6qq)
 
 2022/07/01 By Sorakana
