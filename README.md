@@ -16,4 +16,4 @@ Custom theme maker for Enmity, Aliucord. (works on pc)
 # Support
 Dm me with discord or join my server.
 ・Sorakana#8466
-[https://discord.gg/DQB6fcD6qq]"a"
+[My Server](https://discord.gg/DQB6fcD6qq)
