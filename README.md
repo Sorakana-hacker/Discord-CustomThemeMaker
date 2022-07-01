@@ -8,10 +8,15 @@ Custom theme maker for Enmity, Aliucord. (works on pc)
 5. Have fun.
 # features
 ・Supports Enmity and Aliucord
+
 ・Easy-to-understand GUI app
+
 ・Custom theme name
+
 ・Custom theme author
+
 ・Custom theme explanation
+
 ・Custom background
 # Support
 ・Sorakana#8466
