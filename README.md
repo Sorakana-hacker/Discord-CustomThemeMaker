@@ -1,6 +1,6 @@
 # Discord-CustomThemeMaker
 Custom theme maker for Enmity, Aliucord. (works on pc)
-# rules
+# Rules
 1. Don't distribute secondary.
 2. Don't use it badly.
 3. Don't modify without permission.
@@ -11,7 +11,7 @@ Custom theme maker for Enmity, Aliucord. (works on pc)
 3. Send the created json file to discord and copy its url.
 4. Open the url in Enmity or Aliucord and apply.
 5. Have fun.
-# features
+# Features
 ・Supports Enmity and Aliucord
 
 ・Easy-to-understand GUI app
@@ -25,4 +25,6 @@ Custom theme maker for Enmity, Aliucord. (works on pc)
 ・Custom background
 # Support
 ・Sorakana#8466
-・[My Server](https://discord.gg/DQB6fcD6qq)
+・[My Server](https://discord.gg/DQB6fcD6qq)]
+
+2022/07/01 By Sorakana
